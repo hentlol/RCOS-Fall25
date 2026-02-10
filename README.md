@@ -2,7 +2,7 @@
 
 My Name: Honglin "Henry" Xue
 
-My Photograph:
+![My Photograph](placeholder.png)
 
 My Graduating Year: 2029
 
